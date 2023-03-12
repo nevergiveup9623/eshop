@@ -28,7 +28,7 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 10. after importing successfully.
 
-11. open any browser and type http://localhost/online-shopping-system-with-advanced-admin-page-master.
+11. open any browser and type http://localhost/eshop-main.
 
 12. first register and then login
 
